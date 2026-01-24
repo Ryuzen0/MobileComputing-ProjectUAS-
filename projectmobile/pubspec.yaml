@@ -1,0 +1,53 @@
+# Nama project Flutter
+name: projectmobile
+
+# Deskripsi project
+description: "A new Flutter project."
+
+# Mencegah project dipublish ke pub.dev
+publish_to: 'none'
+
+# Versi aplikasi (versi + build number)
+version: 1.0.0+1
+
+# Versi minimum Dart SDK yang digunakan
+environment:
+  sdk: ^3.9.2
+
+# Dependency yang dibutuhkan aplikasi
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Package untuk HTTP request (API)
+  http: ^1.2.0
+
+  # Package untuk penyimpanan data lokal (token, status login, dll)
+  shared_preferences: ^2.2.2
+
+  # Icon style iOS
+  cupertino_icons: ^1.0.8
+
+# Dependency khusus untuk development & testing
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Lint rules untuk menjaga kualitas kode
+  flutter_lints: ^5.0.0
+
+# Konfigurasi khusus Flutter
+flutter:
+  # Mengaktifkan penggunaan Material Icons
+  uses-material-design: true
+
+  # Contoh penambahan asset (belum digunakan)
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+  # Contoh penambahan custom font (belum digunakan)
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
