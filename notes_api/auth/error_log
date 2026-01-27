@@ -1,0 +1,1 @@
+[24-Jan-2026 04:03:54 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tommy'@'localhost' (using password: YES) in /home/tify9948/public_html/mobile_tommy/notes_api/config/database.php on line 7

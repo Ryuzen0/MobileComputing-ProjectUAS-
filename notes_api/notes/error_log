@@ -1,0 +1,8 @@
+[19-Jan-2026 16:06:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tify9948/public_html/mobile_tommy/notes_api/notes/store.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/tify9948/public_html/mobile_tommy/notes_api/notes/store.php on line 48
+[19-Jan-2026 16:09:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tify9948/public_html/mobile_tommy/notes_api/notes/store.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/tify9948/public_html/mobile_tommy/notes_api/notes/store.php on line 48
